@@ -75,9 +75,45 @@ h1 {
 
 .One {
     background-image: url(/images/pexels-david-eckernforde-1933620728-28810901.jpg);
+    background-size: 40em 40em;
 }
 
-.picTest {
+.Two {
+    background-image: url(/images/pexels-drugwatcher-9551731.jpg);
+    background-size: 40em 40em;
+}
+
+.Three {
+    background-image: url(/images/pexels-farhad-5713746.jpg);
+    background-size: 40em 40em;
+}
+
+.Four {
+    background-image: url(/images/pexels-jordanr93-13133609.jpg);
+    background-size: 40em 40em;
+}
+
+.Five {
+    background-image: url(/images/pexels-repida-mihail-235373877-19814054.jpg);
+    background-size: 40em 40em;
+}
+
+.Six {
+    background-image: url(/images/pexels-rsapmech-12820057.jpg);
+    background-size: 40em 40em;
+}
+
+.Seven {
+    background-image: url(/images/pexels-vafphotos-15035577.jpg);
+    background-size: 40em 40em;
+}
+
+.Eight {
+    background-image: url(/images/pexels-yankrukov-6815665.jpg);
+    background-size: 40em 40em;
+}
+
+.picText {
     color: white;
     margin-top: 0;
     margin-bottom: 0;

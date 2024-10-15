@@ -1,0 +1,84 @@
+html {
+    width: 100%;
+}
+
+body {
+    background: #fbf7f0;
+    width: 100%
+}
+
+.header_layer {
+    background: #fbf7f0;
+    border-bottom: black solid 1px;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    bottom: auto;
+}
+
+.logo {
+    width: 64px;
+    height: 64px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.list_item {
+    list-style: none;
+    text-decoration: none;
+}
+
+.header_toggle-menu {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+main {
+    padding-top: 100px;
+}
+
+.bigText {
+    font-size: 7em;
+}
+
+h1 {
+    text-align: center;
+}
+
+.stories_gird {
+    display: grid;
+}
+
+.grid_instance {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 35px;
+}
+
+.image {
+    width: 40em;
+    height: 40em;
+}
+
+.pic {
+    width: 40em;
+    height: 40em;
+}
+
+.One {
+    background-image: url(/images/pexels-david-eckernforde-1933620728-28810901.jpg);
+}
+
+.picTest {
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+}

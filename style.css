@@ -118,3 +118,14 @@ h1 {
     margin-top: 0;
     margin-bottom: 0;
 }
+
+footer {
+    background: #007354;
+}
+
+.footerContainer {
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 4em 3em;
+}

@@ -4,7 +4,8 @@ html {
 
 body {
     background: #fbf7f0;
-    width: 100%
+    width: 100%;
+    margin: 0 0;
 }
 
 .header_layer {
@@ -60,7 +61,7 @@ h1 {
 .grid_instance {
     display: flex;
     justify-content: space-evenly;
-    padding-bottom: 35px;
+    padding-bottom: 5em;
 }
 
 .image {
@@ -129,3 +130,7 @@ footer {
     justify-content: space-evenly;
     padding: 4em 3em;
 }
+
+li {
+    list-style-type: none;
+}    
